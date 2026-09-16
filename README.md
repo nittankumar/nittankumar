@@ -1,18 +1,107 @@
-# 💫 About Me:
-🚀 I'm currently working on<br>A GenAI + ML cost-optimization tool that analyzes enterprise usage data and recommends ways to cut cloud spend by 10-20%+<br><br>🤝 I'm looking to collaborate on<br>Backend systems involving multi-tenant architecture, async processing at scale, or GenAI applied to real production problems (not just prototypes)<br><br>🆘 I'm looking for help with<br>Deepening my ML/DL fundamentals — I bring production engineering discipline, and I'm actively building out the model side to match it<br><br>🌱 I'm currently learning<br>Machine Learning & Deep Learning foundations, RAG pipelines, and applied GenAI — learning through a live production project, not just courses<br><br>💬 Ask me about<br>Java backend systems at scale, RBAC/auth architecture, RabbitMQ async pipelines, or what it's like bringing GenAI into an enterprise codebase<br><br>⚡ Fun fact<br>Runner-up at Smart India Hackathon 2022, a national competition with 1M+ participant
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:2E5EAA&height=170&section=header&text=Nittan%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Microservices&descAlignY=58&descSize=16" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nittan.kr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nittankumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitin01kumar14@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+production+backend+systems+at+scale;Owns+systems+that+serve+1%2C100%2B+enterprise+orgs;Now+expanding+into+applied+GenAI+%26+ML&font=Fira+Code&center=true&width=560&height=40&duration=3200&pause=1200&color=2E5EAA&vCenter=true&size=18" alt="Typing SVG"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=plastic&logo=rancher&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=plastic&logo=SONARLINT&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nittankumar12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nittankumar12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nittankumar12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📍 Delhi, India &nbsp;·&nbsp; [Portfolio](https://nittan.in) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nittankumar) &nbsp;·&nbsp; ✉️ nitin01kumar14@gmail.com
 
----
-[![](https://komarev.com/ghpvc/?username=nittankumar12&icon=2&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🧭 At a Glance
+
+| Role fit | Public proof | Momentum |
+|---|---|---|
+| Backend Engineer — Java, Spring Boot, Microservices, Azure, AWS | 25+ repos · production-style projects | Actively shipping new work, not just maintaining old projects |
+
+<br/>
+
+## 🛠️ Selected Work
+
+**[E-Commerce Backend System](https://github.com/nittankumar)**
+Fault-tolerant microservices backend in Spring Boot with JWT auth across user, order, and product services. Resilience4J circuit breakers to prevent cascading failures, Prometheus/Grafana dashboards for live monitoring.
+`Java` `Spring Boot` `Microservices` `Resilience4J` `Prometheus`
+
+**[Code Search RAG — Code Intelligence & Semantic Search](https://github.com/nittankumar)**
+Retrieval-Augmented Generation system for semantic code search and Q&A over source repositories — vector retrieval via ChromaDB and Gemini embeddings, interactive Streamlit app built with LangChain.
+`Python` `RAG` `LangChain` `ChromaDB`
+
+**GenAI Cost Optimizer for Enterprise Cloud Spend** *(in progress, NTT DATA)*
+GenAI + ML system analyzing enterprise usage data to recommend cost reductions of 10–20%+. Hands-on in the pipeline and model-optimization work, under senior guidance, while owning the production backend feeding it real data.
+`Python` `Machine Learning` `GenAI`
+
+<br/>
+
+## 💫 About Me
+
+🚀 **Currently building** — a GenAI + ML cost-optimization tool for enterprise cloud spend, alongside my core backend work at NTT DATA
+
+🤝 **Open to collaborating on** — backend systems with multi-tenant architecture or async processing at real production scale
+
+🌱 **Currently learning** — ML & DL foundations and applied GenAI, through a live production project rather than courses alone
+
+💬 **Ask me about** — Java backend systems at scale, RBAC/auth architecture, or RabbitMQ async pipelines
+
+⚡ **Fun fact** — Runner-up at Smart India Hackathon 2022, a national competition with 1M+ participants
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nittankumar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nittankumar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <img alt="Nittan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nittankumar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nittankumar&theme=dark&hide_border=true&background=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=nittankumar&theme=default&hide_border=true&background=00000000" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nittankumar&theme=default&hide_border=true" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+Open to backend, cloud, and AI-adjacent engineering roles — let's talk.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nittan.in-2E5EAA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nittan.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nittankumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitin01kumar14@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,100:1B2A4A&height=90&section=footer" width="100%"/>
+
+</div>
