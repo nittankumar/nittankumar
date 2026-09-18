@@ -14,7 +14,7 @@
 
 | Role fit | Public proof | Momentum |
 |---|---|---|
-| Backend Engineer, GenAI Engineer — Java, Spring Boot, Microservices, Azure, AWS, Python, GenAI | 25+ repos · production-style projects | Actively shipping new work, not just maintaining old projects |
+| Backend Engineer, GenAI Engineer,SDE-II — Java, Spring Boot, Microservices, Azure, AWS, Python, GenAI | 25+ repos · production-style projects | Actively shipping new work, not just maintaining old projects |
 
 <br/>
 
