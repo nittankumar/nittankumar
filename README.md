@@ -74,7 +74,7 @@ GenAI + ML system analyzing enterprise usage data to recommend cost reductions o
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
